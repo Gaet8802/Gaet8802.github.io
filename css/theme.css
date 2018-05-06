@@ -1,6 +1,6 @@
 main {
-	background: #AF3D4E;
-	color: #FAFAFA;
+	background-image: url("https://giphy.com/gifs/wallpaper-OK5LK5zLFfdm/tile");
+	background-repeat:repeat;
 }
 
 .icons-social a {
@@ -10,3 +10,8 @@ main {
 .icons-social a svg path{
 	fill: #FAFAFA;
 }
+
+
+
+body{background-color:#121212}
+
